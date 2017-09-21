@@ -1,2 +1,4 @@
 # ikigai-project-firebase
-t
+[X] Bos
+[-] Neon
+[-] Kari
