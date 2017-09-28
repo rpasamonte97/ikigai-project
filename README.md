@@ -1,4 +1,4 @@
-# ikigai-project-firebase
+# ikigai-project
 [X] Bos
 [X] Neon
 [-] Kari
