@@ -1,5 +1,8 @@
 {
   "name": "Ikigai_Project",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "bundle-install": "bundle install --without production"
+  }
 }
